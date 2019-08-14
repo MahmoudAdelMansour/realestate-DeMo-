@@ -1,0 +1,50 @@
+1-Prepare The Docs
+  |--> WireFrame ,
+  |--> Bootstrap ,
+  |--> FontAwesome
+  |--> Logo To Ico ,
+  |--> Collect Pictures For Project ,
+  ----------------------------------
+2-Prepare The Docs
+  ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+  / |--> Start Make Files  /
+  ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+    |---> Realestat
+        |D-- Docs
+        |D-- layouts
+          ->|D-- css
+                -|F-- Bootstrap.css
+                -|F-- Main.css
+                -|F-- Responsive.cssa
+          ->|D-- Js
+              -|F-- Bootstrap.js
+              -|F-- Main.js
+          ->|D Fonts
+              -|F-- Hacen V1,2
+              -|F-- Another Font
+        |D-- inc //Contain A {PHP} Includes Files
+          -|F-- MYSQL CONNECTION FILE |
+        -|F-- Index.php
+        -|F-- Header.php
+        -|F-- Footer.php
+
+        ----------------
+        | |D-- ADPanel |
+        ----------------
+        |D-- Docs
+        |D-- layouts
+            ->|D-- css
+                  -|F-- Bootstrap.css
+                  -|F-- Main.css
+                  -|F-- Responsive.css
+            ->|D-- Js
+                -|F-- Bootstrap.js
+                -|F-- Main.js
+            ->|D Fonts
+                -|F-- Hacen V1,2
+                -|F-- Another Font
+          |D-- inc //Contain A {PHP} Includes Files
+            -|F-- MYSQL CONNECTION FILE |
+          -|F-- Index.php
+          -|F-- Header.php
+          -|F-- Footer.php

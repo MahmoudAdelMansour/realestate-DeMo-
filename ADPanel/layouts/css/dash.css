@@ -1,0 +1,61 @@
+/* Style Start */
+@font-face {
+  font-family: "HacenPromoterLt";
+  src: url("./fonts/HacenPromoterLt.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/HacenPromoterLt.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */
+    url("../fonts/HacenPromoterLt.otf") format("opentype"),
+    /* Open Type Font */
+    url("../fonts/HacenPromoterLt.svg") format("svg"),
+    /* Legacy iOS */
+    url("../fonts/HacenPromoterLt.ttf") format("truetype"),
+    /* Safari, Android, iOS */
+    url("../fonts/HacenPromoterLt.woff") format("woff"),
+    /* Modern Browsers */
+    url("../fonts/HacenPromoterLt.woff2") format("woff2");
+  /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Define All */
+* {
+  font-family: "HacenPromoterLt";
+}
+
+.our {
+  height: 3vw !important;
+  font-size: 1vw !important;
+}
+
+.container-fluid {
+  font-size: 1vw;
+}
+
+.buttons-for-table a {
+  font-size: 1vw;
+}
+
+.edit-form .last {
+  margin-top: 10px;
+  font-size: 1vw !important;
+}
+
+.edit-form {
+  direction: rtl;
+  text-align: right;
+}
+
+.edit-form select {
+  font-size: 1vw;
+}
+
+.last {
+  margin-top: 10px;
+  font-size: 1vw !important;
+}
+
+.logout-div {
+  margin-bottom: 10px;
+}

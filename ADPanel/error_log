@@ -1,0 +1,59 @@
+[06-Aug-2019 08:12:44 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
+[07-Aug-2019 15:54:09 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
+[07-Aug-2019 15:56:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:190
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(190): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 190
+[07-Aug-2019 15:57:28 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
+[07-Aug-2019 15:58:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:190
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(190): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 190
+[07-Aug-2019 15:58:39 UTC] PHP Notice:  Undefined property: PDOStatement::$rowCount in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dashecompound.php on line 200
+[07-Aug-2019 16:00:06 UTC] PHP Notice:  Undefined property: PDOStatement::$rowCount in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dashecompound.php on line 176
+[07-Aug-2019 16:03:18 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
+[07-Aug-2019 16:05:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:190
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(190): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 190
+[07-Aug-2019 16:06:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:190
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(190): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 190
+[07-Aug-2019 16:08:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:167
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(167): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 167
+[07-Aug-2019 16:09:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:167
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(167): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 167
+[07-Aug-2019 16:09:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:167
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(167): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 167
+[07-Aug-2019 16:12:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:187
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(187): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 187
+[07-Aug-2019 16:12:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'project_images' doesn't have a default value in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php:187
+Stack trace:
+#0 /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php(187): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 187
+[07-Aug-2019 16:14:02 UTC] PHP Notice:  Undefined property: PDOStatement::$rowCount in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 189
+[08-Aug-2019 10:21:25 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
+[08-Aug-2019 11:58:14 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
+[08-Aug-2019 12:32:10 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
+[08-Aug-2019 12:33:24 UTC] PHP Notice:  Undefined property: PDOStatement::$rowCount in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dashecompound.php on line 176
+[08-Aug-2019 12:35:05 UTC] PHP Notice:  Undefined property: PDOStatement::$rowCount in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/dasheproject.php on line 168
+[14-Aug-2019 08:04:29 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
+[14-Aug-2019 08:52:48 UTC] PHP Notice:  Undefined index: error in /home/yt1v2rx4x5h2/public_html/reale.s.m-foda.com/ADPanel/index.php on line 22
